@@ -16,7 +16,7 @@ A: No, NAS is a voluntary system intended to help those who wish to clarify thei
 A: NAS tries to be adaptable. Use the hyphen '-' and double hyphen '--' to represent combined or longer units. If you encounter a structure that doesn't seem to fit, feel free to suggest improvements!
 
 **Q: Who developed NAS?**
-A: NAS was developed by [Your Name/Paulina Valenzuela Lagos] and a friend, based on personal experiences with name misidentification.
+A: NAS was developed by [Paulina Valenzuela Lagos (n.s.s.)] and [Eunjung Lee (n.s.)], based on personal experiences with name misidentification.
 
 **Q: How can I contribute to NAS?**
 A: Suggestions and comments are welcome! Please feel free to open an issue or submit a pull request on our GitHub repository.
