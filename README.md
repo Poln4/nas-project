@@ -47,45 +47,13 @@ The NAS notation provides two key pieces of information: the order of given name
 * **Titles:** `t` is used to denote a title, with capitalization within the name showing preferred usage.
    * Example: King Charles Philip Arthur George **(t.N.n.n.n.)**
 
-## Illustrative Examples Across Cultures
+## Examples
 
-* **Iberoamerican Name:**
-   * Paulina Andrea Valenzuela Lagos **(n.n.s.s.)**
-   * Paulina Andrea Valenzuela Lagos **(N.n.S.S.)**
+For a comprehensive list of examples across different cultures, see [EXAMPLES.md](examples.md).
 
-* **Chinese Name:**
-   * 范寶琳 **(s.n-.)**
-   * Fan Baolin **(s.n-.)**
+## Frequently Asked Questions
 
-* **Korean Name:**
-   * 이은정 **(s.n-.)**
-   * Eunjung Lee **(n.s.)**
-   * Eun-jung Lee **(n-.s.)**
-
-* **Taiwanese Name:**
-   * 蕭乃勻 **(s.n-.)**
-   * Hsiao Nai Yun **(s.n-.)**
-   * Nai Yun Blanca Hsiao **(N-.n.S.)**
-
-* **Vietnamese Name:**
-   * Thao Thách Minh Nguyễn **(n.n.n.s)**
-   * Nguyễn Thao Thách Minh **(S.N.n.n)**
-
-* **Japanese Name:**
-   * 上野純子 **(s-.n-)**
-   * Junko Ueno **(n.s)**
-   * 小泉 純一郎 **(s-.n--)**
-   * Junichiro Koizumi **(n.s)**
-
-* **Slavic Name:**
-   * Volodymyr Oleksandrovych Zelenskyy **(n-.s)**
-
-* **Monarchical Title:**
-   * King Charles Philip Arthur George **(t.N.n.n.n.)**
-
-* **Thai Name:**
-   * Engfa Waraha **(n.s)**
-   * อิงฟ้า วราหะ **(n.s)**
+Answers to common questions about NAS can be found in [FAQ.md](faq.md).
 
 ## Practical Application of NAS
 
@@ -112,5 +80,4 @@ When you see a name with NAS notation:
 Suggestions and comments on the Names Acknowledgment System (NAS) are welcome! Please feel free to open an issue or submit a pull request with your ideas.
 
 ## License
-
-[You can add a license later if you wish, for example, the MIT License]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
